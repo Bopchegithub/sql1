@@ -1,0 +1,4 @@
+CREATE TABLE `payaldb`.`student` (
+  `SID` INT NOT NULL,
+  `SNAME` VARCHAR(45) NULL,
+  PRIMARY KEY (`SID`));
